@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System;
 using System.Collections;
-//everything compare
+//nothing compare
 public abstract class BasePooler : MonoBehaviour
 {
 	#region Events
